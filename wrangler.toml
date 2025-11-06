@@ -1,4 +1,4 @@
-name = "nagaspace"
+name = "nagaspace.beta"
 pages_build_output_dir = "." #"public"
 compatibility_date = "2025-11-02"
 
@@ -11,4 +11,4 @@ database_id = "a948ab60-a672-4429-b6ee-eed6d0bad533"
 # --- KV Namespace Binding (for caching / metadata) ---
 [[kv_namespaces]]
 binding = "USERS_KV"
-id = "693ecc94f12c427d9440bee38f13112d"
+id = "5c22090b5e354b59a562299681150df0"
