@@ -6,7 +6,7 @@ compatibility_date = "2025-11-02"
 [[d1_databases]]
 binding = "DB"
 database_name = "iotbase"
-database_id = "a948ab60-a672-4429-b6ee-eed6d0bad533"
+database_id = "5f9fa179-fa36-4cb9-8f07-c5d3505dc800"
 
 # --- KV Namespace Binding (for caching / metadata) ---
 [[kv_namespaces]]
